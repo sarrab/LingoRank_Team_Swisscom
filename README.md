@@ -4,6 +4,11 @@ This model could be used in a recommendation system , to recommend texts (for ex
 that are appropriate for someone’s language level. If someone is at A1 French level, it is
 inappropriate to present a text at B2 level, as she won’t be able to understand it.
 
+## Authors
+* *Etra Almadani
+* *Sarra Berich 
+* *Jessy Landry Inaka
+
 ## Context 
 We develop this model as a project for Big-Sclae Analytics course.
 It's purpose is to develop a NLP model from scratch, learn and understand the related concepts.
@@ -12,9 +17,11 @@ It's purpose is to develop a NLP model from scratch, learn and understand the re
 ## Methodology
 1. Define adequately our problem and thhink how to model it:
 * Do some search on the topic 
-* Find and read related article 
-* find out how to sole the problem : Classification,Regression ...
+* Find and read related articles 
+* find out how to solve the problem : Classification,Regression ...
 2. Gather Data
 3. Build the model
 4. Evaluate How good the model is 
+
+
 
