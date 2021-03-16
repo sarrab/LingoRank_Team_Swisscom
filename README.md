@@ -16,9 +16,9 @@ It's purpose is to develop a NLP model from scratch, learn and understand the re
 
 ## Methodology
 1. Define adequately our problem and thhink how to model it:
-      ** Do some search on the topic 
-      ** Find and read related articles 
-      ** find out how to solve the problem : Classification,Regression ...
+   - Do some search on the topic 
+   - Find and read related articles 
+   - Find out how to solve the problem : Classification,Regression ...
   
 2. Gather Data
 3. Build the model
