@@ -46,6 +46,15 @@ Collecting data is the basic step in the machine learning pipeline. Several tech
 We used a script to extract the sentences from educational websites with indicated learning levels.
 For the advanced levels, we made use of novels and philosophy articles.
 
+##### Datatsets 
+“Free French Reading Practice | French Reading Exercises.” Accessed March 17, 2021. 
+https://french.kwiziq.com/learn/reading#A1
+“Texte En Français: Lecture et Compréhension.” Accessed March 17, 2021
+https://lingua.com/fr/francais/lecture/.
+TV5MONDE. Bibliothèque Numérique TV5MONDE - Adolphe. Accessed March 17, 2021. https://bibliothequenumerique.tv5monde.com/livre/26/Adolphe.
+Bibliothèque Numérique TV5MONDE - La Chartreuse de Parme. Accessed March 17, 2021. https://bibliothequenumerique.tv5monde.com/livre/175/La-Chartreuse-de-Parme.
+
+
 
 
 #### Annotation
