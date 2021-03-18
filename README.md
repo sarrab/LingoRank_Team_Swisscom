@@ -66,7 +66,8 @@ https://www.podcastfrancaisfacile.com/podcast/50phrases.html.
 8. Bibliothèque Numérique TV5MONDE - La Chartreuse de Parme. Accessed March 17, 2021. https://bibliothequenumerique.tv5monde.com/livre/175/La-Chartreuse-de-Parme.  
 
 **Philosophy articles**  
-9. “Revue Esprit | Revue Esprit.” Accessed March 18, 2021. https://esprit.presse.fr/.  
+9. “Revue Esprit | Revue Esprit.” Accessed March 18, 2021. https://esprit.presse.fr/. 
+ 
 
 #### Dataset 
 We attempted to balance the dataset as possible as we can.   
