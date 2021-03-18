@@ -59,13 +59,11 @@ https://www.podcastfrancaisfacile.com/podcast/50phrases.html.
 
 **Books for Beginners (for kids)**  
 
-5. Ebookids. “De Nouvelles Histoires Tous Les Jours !” Ebookids. Accessed March 18, 2021. https://ebookids.com/book/le-triangle.  
+5. Ebookids. “De Nouvelles Histoires Tous Les Jours !” Ebookids. Accessed March 18, 2021. https://ebookids.com/book/le-triangle.  **Books and Novels**  
+  
+6. TV5MONDE. Bibliothèque Numérique TV5MONDE - Adolphe. Accessed March 17, 2021. https://bibliothequenumerique.tv5monde.com/livre/26/Adolphe.  
+8. Bibliothèque Numérique TV5MONDE - La Chartreuse de Parme. Accessed March 17, 2021. https://bibliothequenumerique.tv5monde.com/livre/175/La-Chartreuse-de-Parme.  **Philosophy articles**  
 
-**Books and Novels**  
-7. TV5MONDE. Bibliothèque Numérique TV5MONDE - Adolphe. Accessed March 17, 2021. https://bibliothequenumerique.tv5monde.com/livre/26/Adolphe.  
-8. Bibliothèque Numérique TV5MONDE - La Chartreuse de Parme. Accessed March 17, 2021. https://bibliothequenumerique.tv5monde.com/livre/175/La-Chartreuse-de-Parme.  
-
-**Philosophy articles**  
 9. “Revue Esprit | Revue Esprit.” Accessed March 18, 2021. https://esprit.presse.fr/. 
  
 
