@@ -49,24 +49,24 @@ We used a script to extract the sentences from educational websites with indicat
 For the advanced levels, we made use of novels and philosophy articles.
 
 #### Datatsets Sources
-**Learning website**
-1. “Free French Reading Practice | French Reading Exercises.” Accessed March 17, 2021.  
-https://french.kwiziq.com/learn/reading#A1  
-2. “Texte En Français: Lecture et Compréhension.” Accessed March 17, 2021  
-https://lingua.com/fr/francais/lecture/.  
-3. Durrenberger, Vincent. “50 phrases pour communiquer en classe.” PodcastFrancaisFacile.com, March 14, 2013.  
+- **Learning website**
+    1. “Free French Reading Practice | French Reading Exercises.” Accessed March 17, 2021.  
+       https://french.kwiziq.com/learn/reading#A1  
+    2. “Texte En Français: Lecture et Compréhension.” Accessed March 17, 2021  
+       https://lingua.com/fr/francais/lecture/.  
+    3. Durrenberger, Vincent. “50 phrases pour communiquer en classe.” PodcastFrancaisFacile.com, March 14, 2013.  
 https://www.podcastfrancaisfacile.com/podcast/50phrases.html.  
 
-**Books for Beginners (for kids)**  
+- **Books for Beginners (for kids)**  
 
-5. Ebookids. “De Nouvelles Histoires Tous Les Jours !” Ebookids. Accessed March 18, 2021. https://ebookids.com/book/le-triangle.  
-**Books and Novels**  
+    5. Ebookids. “De Nouvelles Histoires Tous Les Jours !” Ebookids. Accessed March 18, 2021. https://ebookids.com/book/le-triangle.  
+- **Books and Novels**  
   
-6. TV5MONDE. Bibliothèque Numérique TV5MONDE - Adolphe. Accessed March 17, 2021. https://bibliothequenumerique.tv5monde.com/livre/26/Adolphe.  
-8. Bibliothèque Numérique TV5MONDE - La Chartreuse de Parme. Accessed March 17, 2021. https://bibliothequenumerique.tv5monde.com/livre/175/La-Chartreuse-de-Parme.  
-**Philosophy articles**  
+    6. TV5MONDE. Bibliothèque Numérique TV5MONDE - Adolphe. Accessed March 17, 2021. https://bibliothequenumerique.tv5monde.com/livre/26/Adolphe.  
+    7. Bibliothèque Numérique TV5MONDE - La Chartreuse de Parme. Accessed March 17, 2021. https://bibliothequenumerique.tv5monde.com/livre/175/La-Chartreuse-de-Parme.  
+- **Philosophy articles**  
 
-9. “Revue Esprit | Revue Esprit.” Accessed March 18, 2021. https://esprit.presse.fr/. 
+    9. “Revue Esprit | Revue Esprit.” Accessed March 18, 2021. https://esprit.presse.fr/. 
  
 
 #### Dataset 
